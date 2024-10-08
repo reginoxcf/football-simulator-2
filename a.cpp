@@ -146,7 +146,7 @@ int main(){
         res.open("matches.csv", std::ios_base::app);
         if(i % 10 == 0){
             if(md_b_md) std::this_thread::sleep_for(std::chrono::milliseconds(5000));
-            res << "Matchday " << i/10+1 << "\n";
+            res << "Matchday " << i/10+1 << ",,,\n";
         }
         int t1 = schedule[i].first, t2 = schedule[i].second;
         pair<int, int> result = simulate(t[t1], t[t2]);
