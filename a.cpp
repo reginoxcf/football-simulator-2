@@ -135,7 +135,7 @@ int main(){
     import();
     
     ofstream res;
-    res.open("matches.txt");
+    res.open("matches.csv");
     res.close();
     bool md_b_md = false;
     for(int i = 0; i < (int)schedule.size(); i++){
@@ -143,7 +143,7 @@ int main(){
             printStandings();
             std::this_thread::sleep_for(std::chrono::milliseconds(2500));
         }
-        res.open("matches.txt", std::ios_base::app);
+        res.open("matches.csv", std::ios_base::app);
         if(i % 10 == 0){
             if(md_b_md) std::this_thread::sleep_for(std::chrono::milliseconds(5000));
             res << "Matchday " << i/10+1 << "\n";
@@ -163,7 +163,7 @@ int main(){
         else {
             t[t2].l++, t[t1].w++;
         }
-        res << t[t1].name << " (" << t[t1].ovr << ") " << result.first << " - " << result.second << " " << t[t2].name << " (" << t[t2].ovr << ")" << "\n";
+        res << t[t1].name << " (" << t[t1].ovr << ")," << result.first << "," << result.second << "," << t[t2].name << " (" << t[t2].ovr << ")" << "\n";
         res.close(); 
     }
 
