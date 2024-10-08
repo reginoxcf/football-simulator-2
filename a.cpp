@@ -136,6 +136,7 @@ int main(){
     
     ofstream res;
     res.open("matches.csv");
+    res << "Home,#,#,Away\n";
     res.close();
     bool md_b_md = false;
     for(int i = 0; i < (int)schedule.size(); i++){
