@@ -1,11 +1,14 @@
 #include<bits/stdc++.h>
+using namespace std; 
+//god forgive me for using the above
+
+
+//USER DEFINED HEADERS
+#include "data/headers/team_structure.h"
 #include "data/headers/engine.h"
-#define ll long long
-#define all(v) begin(v), end(v)
-#define pi pair<int, int>
-#define vi vector<int>
-#define task "test"
-using namespace std;
+#include "data/headers/round_robin.h"
+#include "data/headers/printer.h"
+
 //Structs, variables, etc.
 const int noTeams = 20; //number of teams
 
@@ -13,6 +16,8 @@ vector<string> rngNames, rngSuffs;
 vector<team> t;
 
 //Functions
+
+//generates team data (name, ovr)
 void import(){
     ifstream input;
 
