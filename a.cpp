@@ -57,6 +57,6 @@ int main(){
     string matchFile = "matches.csv";
     string standingsFile = "standings.csv";
     t = simulateSeason(schedule, t, matchFile, standingsFile, "short", 0);
-    printStandings(t, standingsFile, "short");
+    printStandings(t, standingsFile, "full");
     return 0;
 }
