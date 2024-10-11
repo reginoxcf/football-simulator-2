@@ -6,7 +6,6 @@
 #define vi vector<int>
 #define task "test"
 using namespace std;
-//-1 for loss, 0 for draw, 1 for win
 //Structs, variables, etc.
 const int noTeams = 20; //number of teams
 
@@ -53,7 +52,7 @@ int main(){
     bool md_b_md = false;
     for(int i = 0; i < (int)schedule.size(); i++){
         if(md_b_md){
-            printStandings(t, "standings.csv");
+            printStandings(t, "standings.csv", "short");
             std::this_thread::sleep_for(std::chrono::milliseconds(2500));
         }
         res.open("matches.csv", std::ios_base::app);
@@ -80,6 +79,6 @@ int main(){
         res.close(); 
     }
 
-    printStandings(t, "standings.csv");
+    printStandings(t, "standings.csv", "short");
     return 0;
 }
