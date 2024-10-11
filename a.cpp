@@ -118,8 +118,7 @@ void printStandings(){
     for(int i = 0; i < noTeams; i++){
         file << i+1 << " ";
         if(i == 0) file << "(C),";
-        else if(i == 1) file << "(P),";
-        else if(i < 6) file << "(Pl),";
+        else if(i < 3) file << "(P),";
         else if(i > noTeams-4) file << "(R),";
         else file << ",";
         file << t[i].name << "," << t[i].pld << ","  << t[i].pts() << "," << t[i].w << "," << t[i].d << "," << t[i].l << "," << t[i].gf << "," << t[i].ga << "," << t[i].gd() << "," << t[i].ovr << "\n";
