@@ -1,3 +1,3 @@
-compile a.cpp first using mingw or whatever
+compile "a.cpp" first 
 
-then run a.exe
+then run the program "a"
