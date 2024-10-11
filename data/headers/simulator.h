@@ -5,15 +5,14 @@
 #include <vector>
 #include <string>
 
-void simulateSeason(std::vector<std::pair<int, int>> schedule, std::vector<team> teamList, std::string outFile, bool matchByMatch){
+std::vector<team> simulateSeason(std::vector<std::pair<int, int>> schedule, std::vector<team> teamList, std::string outFile, std::string standFile, std::string standType, bool matchByMatch){
     std::ofstream res;
     res.open(outFile);
     res << "Home,#,#,Away\n";
     res.close();
-    bool matchByMatch = false;
     for(int i = 0; i < (int)schedule.size(); i++){
         if(matchByMatch){
-            printStandings(teamList, "standings.csv", "short");
+            printStandings(teamList, standFile, standType);
             std::this_thread::sleep_for(std::chrono::milliseconds(2500));
         }
         res.open(outFile, std::ios_base::app);
@@ -39,4 +38,5 @@ void simulateSeason(std::vector<std::pair<int, int>> schedule, std::vector<team>
         res << teamList[team1].name << " (" << teamList[team1].ovr << ")," << result.first << "," << result.second << "," << teamList[team2].name << " (" << teamList[team2].ovr << ")" << "\n";
         res.close(); 
     }
+    return teamList;
 }

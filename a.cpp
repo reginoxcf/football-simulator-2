@@ -54,8 +54,9 @@ void importAndGen(){
 int main(){
     importAndGen();
     vector<pair<int, int>> schedule = round_robin(noTeams);
-    
-    simulateSeason(schedule, t, "matches.csv", 0);
-    printStandings(t, "standings.csv", "short");
+    string matchFile = "matches.csv";
+    string standingsFile = "standings.csv";
+    t = simulateSeason(schedule, t, matchFile, standingsFile, "short", 0);
+    printStandings(t, standingsFile, "short");
     return 0;
 }
