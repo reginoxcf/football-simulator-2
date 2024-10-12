@@ -3,7 +3,11 @@
 #include <algorithm>
 
 //print standings
-void printStandings(std::vector<team> t, std::string OUTFILE, std::string printMode){
+void printStandings(std::vector<team> t, 
+                    std::string OUTFILE, 
+                    std::string printMode,
+                    int noPromoted,
+                    int noRelegated){
     int noTeams = t.size();
     //sort standings
     std::sort(t.begin(), t.end(), [&](team a, team b){
@@ -20,8 +24,8 @@ void printStandings(std::vector<team> t, std::string OUTFILE, std::string printM
         for(int i = 0; i < noTeams; i++){
             file << i+1 << " ";
             if(i == 0) file << "(C),";
-            else if(i < 3) file << "(P),";
-            else if(i > noTeams-4) file << "(R),";
+            else if(i < noPromoted) file << "(P),";
+            else if(i > noTeams-noRelegated-1) file << "(R),";
             else file << ",";
             file << t[i].name << "," << t[i].pld << ","  << t[i].pts() << "," << t[i].w << "-" << t[i].d << "-" << t[i].l << "," << t[i].gf << "-" << t[i].ga << "," << t[i].gd() << "," << t[i].ovr << "\n";
         }

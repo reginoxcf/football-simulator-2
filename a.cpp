@@ -15,7 +15,7 @@ It is best to keep the order of headers as is
 #include "data/headers/simulator.h"
 
 //Structs, variables, etc.
-const int noTeams = 20; //number of teams
+const int noTeams = 10; //number of teams
 
 vector<string> rngNames, rngSuffs;
 vector<team> t;
@@ -56,7 +56,8 @@ int main(){
     vector<pair<int, int>> schedule = round_robin(noTeams);
     string matchFile = "matches.csv";
     string standingsFile = "standings.csv";
-    t = simulateSeason(schedule, t, matchFile, standingsFile, "short", 0);
-    printStandings(t, standingsFile, "full");
+    setDefaults(2, 2, standingsFile, "short");
+    t = simulateSeason(schedule, t, matchFile, 0);
+    printStandings(t, standingsFile, "full", noPromoted, noRelegated);
     return 0;
 }
