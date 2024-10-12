@@ -39,3 +39,4 @@ Thumbs.db
 
 # USER IGNORES #
 /test.cpp
+*.csv
