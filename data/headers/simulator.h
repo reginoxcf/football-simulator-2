@@ -4,28 +4,20 @@
 #include <thread>
 #include <vector>
 #include <string>
+string standingsType; 
 
-int noPromoted, noRelegated;
-string standingsFile;
-string standingsType;
-
-void setDefaults(int no_promoted, int no_relegated, string stand_file, string stand_type){
-    noPromoted = no_promoted;
-    noRelegated = no_relegated;
-    standingsFile = stand_file;
-    standingsType = stand_type;
-
-    return ;
-}   
-
-std::vector<team> simulateSeason(std::vector<std::pair<int, int>> schedule, std::vector<team> teamList, std::string outFile, bool matchByMatch){
+std::vector<team> 
+    simulateSeason(std::vector<std::pair<int, int>> schedule,
+                    std::vector<team> teamList, 
+                    std::string outFile, 
+                    bool matchByMatch){
     std::ofstream res;
     res.open(outFile);
     res << "Home,#,Away\n";
     res.close();
     for(int i = 0; i < (int)schedule.size(); i++){
         if(matchByMatch){
-            printStandings(teamList, standingsFile, standingsType, noPromoted, noRelegated);
+            printStandings(teamList, standingsFile, standingsType);
             std::this_thread::sleep_for(std::chrono::milliseconds(2500));
         }
         res.open(outFile, std::ios_base::app);

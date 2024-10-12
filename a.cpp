@@ -2,6 +2,14 @@
 using namespace std; 
 //god forgive me for using the above
 
+//Structs, variables, etc.
+const int noTeams = 10; //number of teams
+const int noRelegated = 2;
+const int noPromoted = 2;
+
+const string matchFile = "matches.csv";
+const string standingsFile = "standings.csv";
+
 //USER DEFINED HEADERS
 /*
 Always put team_structure.h above all other user-defined headers, since the headers below need the struct "team" to compile
@@ -13,9 +21,6 @@ It is best to keep the order of headers as is
 #include "data/headers/round_robin.h"
 #include "data/headers/printer.h"
 #include "data/headers/simulator.h"
-
-//Structs, variables, etc.
-const int noTeams = 10; //number of teams
 
 vector<string> rngNames, rngSuffs;
 vector<team> t;
@@ -54,10 +59,7 @@ void importAndGen(){
 int main(){
     importAndGen();
     vector<pair<int, int>> schedule = round_robin(noTeams);
-    string matchFile = "matches.csv";
-    string standingsFile = "standings.csv";
-    setDefaults(2, 2, standingsFile, "short");
     t = simulateSeason(schedule, t, matchFile, 0);
-    printStandings(t, standingsFile, "full", noPromoted, noRelegated);
+    printStandings(t, standingsFile, "full");
     return 0;
 }

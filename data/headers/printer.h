@@ -5,9 +5,7 @@
 //print standings
 void printStandings(std::vector<team> t, 
                     std::string OUTFILE, 
-                    std::string printMode,
-                    int noPromoted,
-                    int noRelegated){
+                    std::string printMode){
     int noTeams = t.size();
     //sort standings
     std::sort(t.begin(), t.end(), [&](team a, team b){
