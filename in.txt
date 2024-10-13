@@ -1,1 +1,45 @@
-0 2200
+22 3 3
+Shelbourne
+Shamrock Rovers
+Derry City
+Galway Utd FC
+St Patricks Athletic
+Sligo Rovers
+Waterford Utd
+Bohemians
+Drogheda
+Dundalk
+Celtic
+Aberdeen
+Rangers
+Motherwell
+Dundee Utd
+St Mirren
+Ross County
+Dundee
+Kilmarnock
+Hibernian
+St Johnstone
+Heart of Midlothian
+1560
+1321
+1277
+1408
+1525
+1380
+1501
+1266
+1590
+1670
+1259
+1606
+1557
+1236
+1555
+1230
+1301
+1456
+1274
+1468
+1732
+1337

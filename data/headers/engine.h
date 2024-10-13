@@ -15,7 +15,7 @@ int enginev0(team A, team B, double drawRate){
     return -1;
 }
 
-std::pair<int, int> simulate(team A, team B, double drawrate=1.775){
+std::pair<int, int> simulate(team A, team B, double drawrate=1.75){
     //doesn't work as well as expected (tbf it is sh*t)
     int chances = take(7, 13);
     std::pair<int, int> score = {0, 0};

@@ -3,16 +3,18 @@ using namespace std;
 //god forgive me for using the above
 
 //Structs, variables, etc.
-const int noTeams = 10; //number of teams
-const int noRelegated = 2;
-const int noPromoted = 2;
+int noTeams;
+int noRelegated;
+int noPromoted;
 
+const int seasons = 5;
 const string matchFile = "matches.csv";
 const string standingsFile = "standings.csv";
 
 //USER DEFINED HEADERS
 /*
-Always put team_structure.h above all other user-defined headers, since the headers below need the struct "team" to compile
+Always put team_structure.h above all other user-defined headers
+, since the headers below need the struct "team" to compile
 
 It is best to keep the order of headers as is
 */
@@ -22,7 +24,7 @@ It is best to keep the order of headers as is
 #include "data/headers/printer.h"
 #include "data/headers/simulator.h"
 
-vector<string> rngNames, rngSuffs;
+// vector<string> rngNames, rngSuffs;
 vector<team> t;
 
 //Functions
@@ -30,36 +32,26 @@ vector<team> t;
 //generates team data (name, ovr)
 void importAndGen(){
     ifstream input;
-
-    input.open("data/team_names/uk-cities.txt");
-    string tmp;
-    while(getline(input, tmp)){
-        rngNames.push_back(tmp);
-    }
-    shuffle(rngNames.begin(), rngNames.end(), rng);
-    input.close();
-
-    input.open("data/team_names/team-suffixes.txt");
-    while(getline(input, tmp)){
-        rngSuffs.push_back(tmp);
-    }
-    input.close();
-    
     input.open("in.txt");
-    int x, y; input >> x >> y;
-    t.resize(noTeams);
-    for(int i = 0; i < noTeams; i++){
-        t[i].name = rngNames[i] + " " + rngSuffs[take(0, rngSuffs.size()-1)];
-        t[i].ovr = take(x, y);
+    input >> noTeams >> noPromoted >> noRelegated;
+    t.resize(0); t.resize(noTeams);
+    string temp; getline(input, temp); // trash input
+    for(int i = noTeams-1; i >= 0; i--){
+        getline(input, t[i].name);
     }
-    input.close();
+    for(int i = noTeams-1; i >= 0; i--){
+        input >> t[i].ovr;
+    }
 }
 
 // INT MAIN
 int main(){
-    importAndGen();
-    vector<pair<int, int>> schedule = round_robin(noTeams);
-    t = simulateSeason(schedule, t, matchFile, 0);
-    printStandings(t, standingsFile, "full");
+    for(int i = 1; i <= seasons; i++){
+        importAndGen();
+        vector<pair<int, int>> schedule = round_robin(noTeams);
+        t = simulateSeason(schedule, t, matchFile, 0);
+        printStandings(t, standingsFile, "full");
+        system("pause");
+    }
     return 0;
 }
