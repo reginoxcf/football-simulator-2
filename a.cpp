@@ -7,7 +7,7 @@ int noTeams;
 int noRelegated;
 int noPromoted;
 
-const int seasons = 5;
+const int seasons = 1;
 const string matchFile = "matches.csv";
 const string standingsFile = "standings.csv";
 
