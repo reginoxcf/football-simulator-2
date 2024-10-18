@@ -1,45 +1,40 @@
-22 3 3
-Shelbourne
-Shamrock Rovers
-Derry City
-Galway Utd FC
-St Patricks Athletic
-Sligo Rovers
-Waterford Utd
-Bohemians
-Drogheda
-Dundalk
-Celtic
-Aberdeen
-Rangers
-Motherwell
-Dundee Utd
-St Mirren
-Ross County
-Dundee
-Kilmarnock
-Hibernian
-St Johnstone
-Heart of Midlothian
-1560
-1321
-1277
-1408
-1525
-1380
-1501
-1266
-1590
-1670
-1259
-1606
-1557
-1236
-1555
-1230
-1301
-1456
-1274
-1468
-1732
-1337
+Manchester City,2140
+West Ham United,1795
+Arsenal,2101
+Tottenham Hotspur,1987
+Liverpool,2081
+Brighton and Hove Albion,1914
+Chelsea,2064
+Newcastle United,2016
+Brentford,1927
+Everton,1980
+Wolverhampton Wanderers,1668
+Fulham,1805
+Crystal Palace,1822
+Leicester City,1971
+Manchester United,2033
+Ipswich Town,1606
+Bournemouth,1938
+Aston Villa,2039
+Southampton,1619
+Nottingham Forest,1800 
+St Johnstone,1732
+Dundalk,1670
+Dundee,1456
+Drogheda,1590
+Celtic,1259
+St Mirren,1230
+Derry City,1277
+Aberdeen,1606
+Bohemians,1266
+Galway Utd FC,1408
+Dundee Utd,1555
+Rangers,1557
+Shelbourne,1560
+Kilmarnock,1274
+Shamrock Rovers,1321
+Ross County,1301
+Waterford Utd,1525
+Hibernian,1468
+Motherwell,1236
+Heart of Midlothian,1337

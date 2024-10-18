@@ -4,7 +4,6 @@
 #include <thread>
 #include <vector>
 #include <string>
-string standingsType; 
 
 std::vector<team> 
     simulateSeason(std::vector<std::pair<int, int>> schedule,
