@@ -1,0 +1,20 @@
+Manchester City,2140
+Brentford,1927
+Brighton and Hove Albion,1914
+Ipswich Town,1606
+Fulham,1805
+Chelsea,2064
+Crystal Palace,1822
+Manchester United,2033
+Newcastle United,2016
+Aston Villa,2039
+Liverpool,2081
+Bournemouth,1938
+Leicester City,1971
+Nottingham Forest,1800
+Southampton,1619
+West Ham United,1795
+St Johnstone,1732
+Tottenham Hotspur,1987
+Dundee Utd,1555
+Everton,1980
