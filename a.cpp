@@ -51,7 +51,8 @@ int main(){
         vector<pair<int, int>> schedule = round_robin(noTeams);
         t = simulateSeason(schedule, t, matchFile, 0);
         printStandings(t, standingsFile, "full");
-        system("pause");
+        cout << "Press any key to continue";
+        cin.get();
     }
     return 0;
 }
