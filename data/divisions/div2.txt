@@ -1,20 +1,20 @@
+Chelsea,2064
+Brighton and Hove Albion,1914
+Brentford,1927
 Waterford Utd,1525
-St Mirren,1230
-Arsenal,2101
-Dundalk,1670
-Wolverhampton Wanderers,1668
-Rangers,1557
-Drogheda,1590
-Bohemians,1266
-Hibernian,1468
-Dundee,1456
-Celtic,1259
-Aberdeen,1606
 Shelbourne,1560
-Ross County,1301
+Bohemians,1266
 Galway Utd FC,1408
-Derry City,1277
-Motherwell,1236
-Shamrock Rovers,1321
+Dundee Utd,1555
+Hibernian,1468
 Heart of Midlothian,1337
+St Mirren,1230
+Shamrock Rovers,1321
+Rangers,1557
+Dundee,1456
+Ross County,1301
+Celtic,1259
+Drogheda,1590
+Derry City,1277
 Kilmarnock,1274
+Motherwell,1236

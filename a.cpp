@@ -50,6 +50,8 @@ void run(std::string name){
 
 int main(){
     //input
+    //clear tracker_log
+    std::ofstream cl("tracker_log.txt");
     std::vector<std::string> input;
     std::ifstream get("in.txt");
     std::string get_s;
@@ -72,12 +74,14 @@ int main(){
     print.close();
     compile("div1");
     compile("div2");
+    compile("tracker");
     for(int i = 1; i <= seasons; i++){
         print.open("data/history.txt", std::ios_base::app);
         print << "--- SEASON " << i << " ---\n";
         print.close();
         run("div1");
         run("div2");
+        run("tracker");
         processChanges();
         std::cout << "Finished season " << i << ". Press any key to continue\n";
         // std::cin.get();

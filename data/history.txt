@@ -1,1400 +1,1400 @@
 --- SEASON 1 ---
 Div. 1:
-Champions: Chelsea (71)
+Champions: Manchester City (73)
 Relegated: 
-Ipswich Town (42)
-Fulham (39)
-West Ham United (39)
+Wolverhampton Wanderers (44)
+Nottingham Forest (40)
+Southampton (40)
 
 Div. 2:
-Champions: Waterford Utd (76)
+Champions: Shelbourne (66)
 Promoted: 
-St Johnstone (65)
-Heart of Midlothian (63)
+Rangers (65)
+Dundee (63)
 
 --- SEASON 2 ---
 Div. 1:
-Champions: Chelsea (66)
+Champions: Newcastle United (72)
 Relegated: 
-St Johnstone (46)
-Brighton and Hove Albion (46)
-Aston Villa (35)
+Ipswich Town (40)
+Shelbourne (38)
+Leicester City (32)
 
 Div. 2:
-Champions: Fulham (79)
+Champions: St Johnstone (78)
 Promoted: 
-Dundalk (70)
-Rangers (65)
+Aberdeen (74)
+Galway Utd FC (64)
 
 --- SEASON 3 ---
 Div. 1:
-Champions: Liverpool (74)
+Champions: Manchester City (65)
 Relegated: 
-Waterford Utd (36)
-Heart of Midlothian (33)
-Southampton (26)
+Crystal Palace (39)
+St Johnstone (38)
+Dundee (34)
 
 Div. 2:
-Champions: Celtic (66)
+Champions: Leicester City (65)
 Promoted: 
-Shelbourne (66)
-St Johnstone (63)
+Southampton (64)
+Shamrock Rovers (61)
 
 --- SEASON 4 ---
 Div. 1:
-Champions: Tottenham Hotspur (67)
+Champions: Everton (70)
 Relegated: 
-Brentford (38)
+Southampton (39)
 Rangers (37)
-Celtic (26)
-
-Div. 2:
-Champions: Aston Villa (79)
-Promoted: 
-Dundee (67)
-Brighton and Hove Albion (65)
-
---- SEASON 5 ---
-Div. 1:
-Champions: Manchester United (80)
-Relegated: 
-Wolverhampton Wanderers (40)
-Shelbourne (37)
-Dundee (36)
-
-Div. 2:
-Champions: Ipswich Town (68)
-Promoted: 
-Aberdeen (68)
-Dundee Utd (66)
-
---- SEASON 6 ---
-Div. 1:
-Champions: Arsenal (67)
-Relegated: 
-Manchester United (43)
-St Johnstone (42)
-Aberdeen (38)
-
-Div. 2:
-Champions: Brentford (71)
-Promoted: 
-Southampton (69)
-West Ham United (64)
-
---- SEASON 7 ---
-Div. 1:
-Champions: Everton (74)
-Relegated: 
-Brighton and Hove Albion (44)
-Southampton (40)
-Dundee Utd (36)
-
-Div. 2:
-Champions: St Johnstone (77)
-Promoted: 
-Manchester United (74)
-Shelbourne (64)
-
---- SEASON 8 ---
-Div. 1:
-Champions: West Ham United (66)
-Relegated: 
-Dundalk (39)
-Shelbourne (38)
-Ipswich Town (30)
-
-Div. 2:
-Champions: Southampton (70)
-Promoted: 
-Wolverhampton Wanderers (70)
-Celtic (68)
-
---- SEASON 9 ---
-Div. 1:
-Champions: Manchester United (72)
-Relegated: 
-Celtic (42)
-Wolverhampton Wanderers (41)
-Everton (29)
-
-Div. 2:
-Champions: Dundalk (64)
-Promoted: 
-Dundee (63)
-Shamrock Rovers (62)
-
---- SEASON 10 ---
-Div. 1:
-Champions: Liverpool (69)
-Relegated: 
-Brentford (41)
-Newcastle United (40)
 Shamrock Rovers (36)
 
 Div. 2:
-Champions: Brighton and Hove Albion (79)
+Champions: Nottingham Forest (66)
 Promoted: 
-Rangers (69)
+Wolverhampton Wanderers (65)
+Dundee (64)
+
+--- SEASON 5 ---
+Div. 1:
+Champions: Brentford (67)
+Relegated: 
+Brighton and Hove Albion (47)
+Dundee (45)
+Galway Utd FC (24)
+
+Div. 2:
+Champions: Ipswich Town (77)
+Promoted: 
+Dundalk (73)
 Drogheda (67)
+
+--- SEASON 6 ---
+Div. 1:
+Champions: Chelsea (72)
+Relegated: 
+Nottingham Forest (36)
+Wolverhampton Wanderers (35)
+Dundalk (34)
+
+Div. 2:
+Champions: Hibernian (73)
+Promoted: 
+St Johnstone (66)
+Galway Utd FC (61)
+
+--- SEASON 7 ---
+Div. 1:
+Champions: St Johnstone (65)
+Relegated: 
+Fulham (45)
+Ipswich Town (42)
+Galway Utd FC (37)
+
+Div. 2:
+Champions: Brighton and Hove Albion (64)
+Promoted: 
+Wolverhampton Wanderers (64)
+Dundee (64)
+
+--- SEASON 8 ---
+Div. 1:
+Champions: Chelsea (68)
+Relegated: 
+Everton (42)
+Manchester City (42)
+Dundee (31)
+
+Div. 2:
+Champions: Crystal Palace (69)
+Promoted: 
+Dundalk (68)
+Nottingham Forest (66)
+
+--- SEASON 9 ---
+Div. 1:
+Champions: Brighton and Hove Albion (72)
+Relegated: 
+Wolverhampton Wanderers (43)
+Hibernian (41)
+St Johnstone (41)
+
+Div. 2:
+Champions: Manchester City (80)
+Promoted: 
+Everton (73)
+Fulham (70)
+
+--- SEASON 10 ---
+Div. 1:
+Champions: Liverpool (68)
+Relegated: 
+Arsenal (42)
+Aberdeen (39)
+Crystal Palace (38)
+
+Div. 2:
+Champions: Ross County (73)
+Promoted: 
+Waterford Utd (72)
+Southampton (68)
 
 --- SEASON 11 ---
 Div. 1:
-Champions: Aston Villa (72)
+Champions: Liverpool (70)
 Relegated: 
-West Ham United (41)
-Bournemouth (40)
-Dundee (35)
+Aston Villa (47)
+Brighton and Hove Albion (47)
+Fulham (37)
 
 Div. 2:
-Champions: Newcastle United (79)
+Champions: Arsenal (78)
 Promoted: 
-Everton (73)
-Dundee Utd (66)
+Wolverhampton Wanderers (73)
+Rangers (66)
 
 --- SEASON 12 ---
 Div. 1:
-Champions: Manchester City (77)
+Champions: Newcastle United (65)
 Relegated: 
-Crystal Palace (39)
-Southampton (38)
-Nottingham Forest (34)
+Liverpool (44)
+Nottingham Forest (44)
+West Ham United (40)
 
 Div. 2:
-Champions: Brentford (67)
+Champions: Brighton and Hove Albion (84)
 Promoted: 
-West Ham United (67)
-Shelbourne (63)
+Aston Villa (71)
+Dundee Utd (66)
 
 --- SEASON 13 ---
 Div. 1:
-Champions: Brighton and Hove Albion (70)
+Champions: Aston Villa (77)
 Relegated: 
-Drogheda (46)
-Dundee Utd (45)
-Shelbourne (35)
+Waterford Utd (39)
+Drogheda (38)
+Dundalk (32)
 
 Div. 2:
-Champions: Nottingham Forest (75)
+Champions: Liverpool (72)
 Promoted: 
-Crystal Palace (73)
-Southampton (65)
+Aberdeen (71)
+Dundee (66)
 
 --- SEASON 14 ---
 Div. 1:
-Champions: Liverpool (75)
+Champions: Arsenal (75)
 Relegated: 
-Arsenal (43)
-St Johnstone (40)
-Rangers (33)
+Rangers (44)
+Dundee Utd (40)
+Ross County (28)
 
 Div. 2:
-Champions: Dundee (71)
+Champions: West Ham United (70)
 Promoted: 
-Ipswich Town (71)
-Wolverhampton Wanderers (66)
+Crystal Palace (69)
+Ipswich Town (67)
 
 --- SEASON 15 ---
 Div. 1:
-Champions: Southampton (73)
+Champions: Everton (67)
 Relegated: 
-Tottenham Hotspur (44)
-Wolverhampton Wanderers (34)
-Dundee (28)
+Arsenal (46)
+Ipswich Town (40)
+Wolverhampton Wanderers (39)
 
 Div. 2:
-Champions: Arsenal (76)
+Champions: St Johnstone (75)
 Promoted: 
-Bournemouth (68)
-Aberdeen (65)
+Fulham (69)
+Shelbourne (63)
 
 --- SEASON 16 ---
 Div. 1:
-Champions: Dundalk (67)
+Champions: Crystal Palace (69)
 Relegated: 
-Aberdeen (48)
-Manchester City (40)
-Everton (37)
+Brighton and Hove Albion (40)
+St Johnstone (38)
+Dundee (35)
 
 Div. 2:
-Champions: St Johnstone (72)
+Champions: Arsenal (72)
 Promoted: 
-Tottenham Hotspur (71)
-Dundee Utd (62)
+Nottingham Forest (68)
+Hibernian (61)
 
 --- SEASON 17 ---
 Div. 1:
-Champions: Aston Villa (66)
+Champions: Tottenham Hotspur (76)
 Relegated: 
-Tottenham Hotspur (43)
-Dundee Utd (42)
-Newcastle United (40)
+Hibernian (42)
+Crystal Palace (39)
+Shelbourne (36)
 
 Div. 2:
-Champions: Manchester City (65)
+Champions: Rangers (67)
 Promoted: 
-Shelbourne (63)
-Wolverhampton Wanderers (63)
+Motherwell (62)
+St Johnstone (61)
 
 --- SEASON 18 ---
 Div. 1:
-Champions: Chelsea (67)
+Champions: Aston Villa (65)
 Relegated: 
-Shelbourne (44)
-Wolverhampton Wanderers (39)
-St Johnstone (34)
+Southampton (41)
+Rangers (39)
+Motherwell (35)
 
 Div. 2:
-Champions: Waterford Utd (78)
+Champions: Brighton and Hove Albion (75)
 Promoted: 
-Tottenham Hotspur (76)
-Dundee Utd (73)
+Crystal Palace (69)
+Ross County (64)
 
 --- SEASON 19 ---
 Div. 1:
-Champions: Manchester City (73)
+Champions: Arsenal (69)
 Relegated: 
-Waterford Utd (43)
-Nottingham Forest (42)
-Dundalk (38)
+Brighton and Hove Albion (43)
+Crystal Palace (38)
+Aston Villa (37)
 
 Div. 2:
-Champions: Aberdeen (70)
+Champions: Dundee Utd (75)
 Promoted: 
-Wolverhampton Wanderers (69)
-Hibernian (64)
+Heart of Midlothian (68)
+Wolverhampton Wanderers (64)
 
 --- SEASON 20 ---
 Div. 1:
-Champions: Manchester City (75)
+Champions: Chelsea (78)
 Relegated: 
-Ipswich Town (42)
-Wolverhampton Wanderers (40)
-Hibernian (37)
+Newcastle United (37)
+Ross County (37)
+Heart of Midlothian (36)
 
 Div. 2:
-Champions: Everton (81)
+Champions: Aston Villa (75)
 Promoted: 
-Shelbourne (67)
-Newcastle United (67)
+Southampton (72)
+Crystal Palace (69)
 
 --- SEASON 21 ---
 Div. 1:
-Champions: Liverpool (77)
+Champions: Nottingham Forest (74)
 Relegated: 
-Crystal Palace (43)
-Leicester City (39)
-Southampton (36)
+Brentford (42)
+St Johnstone (40)
+West Ham United (36)
 
 Div. 2:
-Champions: Ipswich Town (70)
+Champions: Ipswich Town (82)
 Promoted: 
-Dundalk (70)
-St Johnstone (68)
+Rangers (68)
+Newcastle United (67)
 
 --- SEASON 22 ---
 Div. 1:
-Champions: Liverpool (76)
+Champions: Bournemouth (69)
 Relegated: 
-Chelsea (46)
-Arsenal (36)
-Aston Villa (36)
+Leicester City (40)
+Dundee Utd (37)
+Aberdeen (34)
+
+Div. 2:
+Champions: St Johnstone (83)
+Promoted: 
+Brentford (72)
+Shelbourne (70)
+
+--- SEASON 23 ---
+Div. 1:
+Champions: Arsenal (79)
+Relegated: 
+Bournemouth (44)
+Shelbourne (42)
+Southampton (42)
+
+Div. 2:
+Champions: West Ham United (67)
+Promoted: 
+Drogheda (66)
+Heart of Midlothian (61)
+
+--- SEASON 24 ---
+Div. 1:
+Champions: Liverpool (70)
+Relegated: 
+Drogheda (40)
+West Ham United (40)
+Heart of Midlothian (32)
+
+Div. 2:
+Champions: Leicester City (72)
+Promoted: 
+Brighton and Hove Albion (63)
+Derry City (62)
+
+--- SEASON 25 ---
+Div. 1:
+Champions: Everton (74)
+Relegated: 
+Arsenal (44)
+Brentford (39)
+Derry City (31)
+
+Div. 2:
+Champions: West Ham United (77)
+Promoted: 
+Dundee Utd (75)
+Southampton (68)
+
+--- SEASON 26 ---
+Div. 1:
+Champions: Everton (74)
+Relegated: 
+Dundee Utd (40)
+Southampton (38)
+Ipswich Town (35)
+
+Div. 2:
+Champions: Brentford (83)
+Promoted: 
+Arsenal (78)
+Drogheda (71)
+
+--- SEASON 27 ---
+Div. 1:
+Champions: Manchester United (74)
+Relegated: 
+Aston Villa (39)
+Wolverhampton Wanderers (37)
+Fulham (34)
+
+Div. 2:
+Champions: Southampton (77)
+Promoted: 
+Dundee Utd (70)
+Dundalk (62)
+
+--- SEASON 28 ---
+Div. 1:
+Champions: Newcastle United (68)
+Relegated: 
+Nottingham Forest (43)
+Drogheda (39)
+Rangers (29)
+
+Div. 2:
+Champions: Aston Villa (74)
+Promoted: 
+Fulham (69)
+Dundee (62)
+
+--- SEASON 29 ---
+Div. 1:
+Champions: Chelsea (74)
+Relegated: 
+Dundalk (46)
+Newcastle United (41)
+Dundee Utd (30)
+
+Div. 2:
+Champions: Bournemouth (74)
+Promoted: 
+Aberdeen (69)
+Drogheda (66)
+
+--- SEASON 30 ---
+Div. 1:
+Champions: Liverpool (72)
+Relegated: 
+Brighton and Hove Albion (42)
+Fulham (38)
+Drogheda (31)
 
 Div. 2:
 Champions: Nottingham Forest (72)
 Promoted: 
-Leicester City (71)
-Crystal Palace (67)
+Ross County (72)
+Celtic (70)
 
---- SEASON 23 ---
+--- SEASON 31 ---
 Div. 1:
-Champions: Liverpool (73)
+Champions: Southampton (66)
 Relegated: 
-Dundee Utd (43)
-Fulham (39)
-Crystal Palace (35)
+Dundee (45)
+Ross County (41)
+Celtic (38)
 
 Div. 2:
-Champions: Dundee (71)
+Champions: Newcastle United (67)
 Promoted: 
-Wolverhampton Wanderers (65)
-Arsenal (64)
+Shelbourne (67)
+Fulham (66)
 
---- SEASON 24 ---
+--- SEASON 32 ---
 Div. 1:
-Champions: Liverpool (66)
+Champions: Fulham (63)
 Relegated: 
-Nottingham Forest (44)
-Manchester United (41)
-Dundalk (35)
+Newcastle United (44)
+Southampton (41)
+Crystal Palace (40)
 
 Div. 2:
-Champions: Southampton (75)
+Champions: Wolverhampton Wanderers (73)
 Promoted: 
-Rangers (68)
-Aston Villa (65)
+Ipswich Town (67)
+Bohemians (60)
 
---- SEASON 25 ---
+--- SEASON 33 ---
 Div. 1:
-Champions: Newcastle United (71)
+Champions: Manchester City (67)
 Relegated: 
-Rangers (41)
-Aberdeen (39)
-Brentford (38)
+Brentford (44)
+Ipswich Town (39)
+Bohemians (22)
 
 Div. 2:
-Champions: Chelsea (78)
+Champions: Newcastle United (75)
 Promoted: 
-Fulham (70)
-Manchester United (69)
+Crystal Palace (63)
+Hibernian (63)
 
---- SEASON 26 ---
+--- SEASON 34 ---
 Div. 1:
-Champions: Manchester City (66)
+Champions: Manchester United (67)
 Relegated: 
-Leicester City (44)
 Shelbourne (40)
-Southampton (28)
+Wolverhampton Wanderers (39)
+Hibernian (35)
 
 Div. 2:
-Champions: Crystal Palace (68)
+Champions: Brighton and Hove Albion (76)
 Promoted: 
-Bohemians (65)
-Nottingham Forest (64)
+Brentford (73)
+Dundalk (64)
 
---- SEASON 27 ---
+--- SEASON 35 ---
 Div. 1:
-Champions: Liverpool (66)
+Champions: Arsenal (65)
 Relegated: 
-Wolverhampton Wanderers (42)
-Bohemians (39)
-Dundee (35)
+Aston Villa (48)
+Aberdeen (38)
+West Ham United (32)
 
 Div. 2:
-Champions: Dundalk (71)
+Champions: Dundee (67)
 Promoted: 
-Galway Utd FC (64)
-Southampton (63)
+Southampton (62)
+Ipswich Town (61)
 
---- SEASON 28 ---
+--- SEASON 36 ---
 Div. 1:
-Champions: Newcastle United (73)
+Champions: Nottingham Forest (76)
 Relegated: 
-Nottingham Forest (44)
-Dundalk (43)
-Galway Utd FC (40)
+Dundee (43)
+Liverpool (41)
+Everton (33)
 
 Div. 2:
-Champions: Brentford (69)
+Champions: Shelbourne (75)
 Promoted: 
-Drogheda (68)
-Aberdeen (68)
+Dundee Utd (70)
+West Ham United (68)
 
---- SEASON 29 ---
+--- SEASON 37 ---
 Div. 1:
-Champions: St Johnstone (75)
+Champions: Tottenham Hotspur (74)
 Relegated: 
-Southampton (40)
+Shelbourne (40)
+Chelsea (40)
+Brighton and Hove Albion (36)
+
+Div. 2:
+Champions: Liverpool (74)
+Promoted: 
+Aston Villa (73)
+Rangers (72)
+
+--- SEASON 38 ---
+Div. 1:
+Champions: Liverpool (71)
+Relegated: 
+St Johnstone (43)
+Dundalk (41)
+Crystal Palace (38)
+
+Div. 2:
+Champions: Brighton and Hove Albion (74)
+Promoted: 
+Shelbourne (66)
+Chelsea (65)
+
+--- SEASON 39 ---
+Div. 1:
+Champions: Arsenal (71)
+Relegated: 
+Tottenham Hotspur (41)
+Liverpool (41)
 Bournemouth (38)
-Fulham (34)
+
+Div. 2:
+Champions: Everton (71)
+Promoted: 
+Dundalk (65)
+Wolverhampton Wanderers (65)
+
+--- SEASON 40 ---
+Div. 1:
+Champions: Manchester United (80)
+Relegated: 
+Ipswich Town (37)
+Shelbourne (35)
+Dundee Utd (32)
+
+Div. 2:
+Champions: Crystal Palace (62)
+Promoted: 
+Hibernian (60)
+Liverpool (59)
+
+--- SEASON 41 ---
+Div. 1:
+Champions: Nottingham Forest (71)
+Relegated: 
+Southampton (44)
+Brighton and Hove Albion (38)
+Hibernian (38)
+
+Div. 2:
+Champions: Tottenham Hotspur (77)
+Promoted: 
+Bournemouth (68)
+Aberdeen (64)
+
+--- SEASON 42 ---
+Div. 1:
+Champions: Manchester City (68)
+Relegated: 
+Wolverhampton Wanderers (40)
+Leicester City (38)
+Rangers (36)
+
+Div. 2:
+Champions: Brighton and Hove Albion (77)
+Promoted: 
+Celtic (63)
+Ipswich Town (63)
+
+--- SEASON 43 ---
+Div. 1:
+Champions: Crystal Palace (66)
+Relegated: 
+Newcastle United (45)
+West Ham United (37)
+Celtic (24)
+
+Div. 2:
+Champions: St Johnstone (69)
+Promoted: 
+Dundee (67)
+Leicester City (64)
+
+--- SEASON 44 ---
+Div. 1:
+Champions: Brighton and Hove Albion (64)
+Relegated: 
+Fulham (44)
+Crystal Palace (44)
+Dundalk (41)
+
+Div. 2:
+Champions: Southampton (72)
+Promoted: 
+Newcastle United (69)
+Hibernian (65)
+
+--- SEASON 45 ---
+Div. 1:
+Champions: Brentford (65)
+Relegated: 
+Dundee (39)
+Aberdeen (37)
+Hibernian (30)
+
+Div. 2:
+Champions: Dundalk (73)
+Promoted: 
+Fulham (72)
+Crystal Palace (70)
+
+--- SEASON 46 ---
+Div. 1:
+Champions: Manchester City (70)
+Relegated: 
+Ipswich Town (39)
+Southampton (38)
+Tottenham Hotspur (35)
+
+Div. 2:
+Champions: Wolverhampton Wanderers (83)
+Promoted: 
+West Ham United (77)
+Hibernian (69)
+
+--- SEASON 47 ---
+Div. 1:
+Champions: Brentford (74)
+Relegated: 
+West Ham United (42)
+Crystal Palace (39)
+St Johnstone (38)
+
+Div. 2:
+Champions: Tottenham Hotspur (67)
+Promoted: 
+Derry City (66)
+Dundee Utd (62)
+
+--- SEASON 48 ---
+Div. 1:
+Champions: Arsenal (72)
+Relegated: 
+Fulham (41)
+Derry City (40)
+Manchester United (34)
+
+Div. 2:
+Champions: Aberdeen (74)
+Promoted: 
+Galway Utd FC (66)
+Rangers (64)
+
+--- SEASON 49 ---
+Div. 1:
+Champions: Chelsea (68)
+Relegated: 
+Rangers (40)
+Galway Utd FC (40)
+Hibernian (37)
+
+Div. 2:
+Champions: Crystal Palace (82)
+Promoted: 
+St Johnstone (71)
+Manchester United (62)
+
+--- SEASON 50 ---
+Div. 1:
+Champions: Chelsea (71)
+Relegated: 
+St Johnstone (45)
+Dundee Utd (38)
+Aberdeen (33)
+
+Div. 2:
+Champions: Fulham (71)
+Promoted: 
+West Ham United (70)
+Kilmarnock (63)
+
+--- SEASON 51 ---
+Div. 1:
+Champions: Manchester City (76)
+Relegated: 
+Dundalk (43)
+Aston Villa (41)
+Kilmarnock (32)
+
+Div. 2:
+Champions: St Johnstone (65)
+Promoted: 
+Shelbourne (63)
+Dundee (62)
+
+--- SEASON 52 ---
+Div. 1:
+Champions: Arsenal (74)
+Relegated: 
+St Johnstone (45)
+Shelbourne (33)
+Dundee (31)
+
+Div. 2:
+Champions: Dundalk (70)
+Promoted: 
+Bohemians (67)
+Rangers (65)
+
+--- SEASON 53 ---
+Div. 1:
+Champions: Newcastle United (68)
+Relegated: 
+Nottingham Forest (42)
+Dundalk (42)
+Bohemians (35)
+
+Div. 2:
+Champions: St Johnstone (78)
+Promoted: 
+Dundee Utd (68)
+Galway Utd FC (59)
+
+--- SEASON 54 ---
+Div. 1:
+Champions: Liverpool (64)
+Relegated: 
+Galway Utd FC (43)
+Rangers (42)
+Brentford (40)
+
+Div. 2:
+Champions: Aston Villa (71)
+Promoted: 
+Hibernian (65)
+Shelbourne (64)
+
+--- SEASON 55 ---
+Div. 1:
+Champions: Aston Villa (71)
+Relegated: 
+St Johnstone (41)
+Dundee Utd (35)
+Hibernian (34)
+
+Div. 2:
+Champions: Rangers (62)
+Promoted: 
+Ross County (62)
+Brentford (61)
+
+--- SEASON 56 ---
+Div. 1:
+Champions: Manchester City (80)
+Relegated: 
+Rangers (43)
+Crystal Palace (40)
+Ross County (34)
 
 Div. 2:
 Champions: Dundalk (80)
 Promoted: 
-Leicester City (76)
-Wolverhampton Wanderers (64)
+St Johnstone (72)
+Dundee Utd (68)
 
---- SEASON 30 ---
+--- SEASON 57 ---
 Div. 1:
-Champions: Newcastle United (70)
+Champions: Tottenham Hotspur (71)
 Relegated: 
-Crystal Palace (43)
+Dundalk (44)
 St Johnstone (42)
-Manchester City (38)
+Chelsea (38)
 
 Div. 2:
-Champions: Hibernian (71)
+Champions: Ipswich Town (74)
 Promoted: 
-Heart of Midlothian (66)
-Southampton (65)
+Rangers (74)
+Crystal Palace (71)
 
---- SEASON 31 ---
+--- SEASON 58 ---
 Div. 1:
-Champions: Liverpool (79)
+Champions: Manchester City (63)
 Relegated: 
-Everton (45)
-Hibernian (43)
+Bournemouth (47)
+Tottenham Hotspur (46)
+Rangers (29)
+
+Div. 2:
+Champions: Nottingham Forest (80)
+Promoted: 
+Chelsea (71)
+Aberdeen (69)
+
+--- SEASON 59 ---
+Div. 1:
+Champions: Leicester City (73)
+Relegated: 
+Ipswich Town (40)
+Shelbourne (37)
+Fulham (37)
+
+Div. 2:
+Champions: Heart of Midlothian (75)
+Promoted: 
+Bournemouth (67)
+Dundalk (66)
+
+--- SEASON 60 ---
+Div. 1:
+Champions: Leicester City (65)
+Relegated: 
+Heart of Midlothian (40)
+Dundee Utd (39)
+Nottingham Forest (36)
+
+Div. 2:
+Champions: Tottenham Hotspur (80)
+Promoted: 
+Shelbourne (65)
+Dundee (65)
+
+--- SEASON 61 ---
+Div. 1:
+Champions: Chelsea (70)
+Relegated: 
+Shelbourne (41)
+Wolverhampton Wanderers (38)
+Dundee (32)
+
+Div. 2:
+Champions: Southampton (76)
+Promoted: 
+St Johnstone (72)
+Bohemians (68)
+
+--- SEASON 62 ---
+Div. 1:
+Champions: St Johnstone (65)
+Relegated: 
+Aberdeen (45)
+Everton (36)
+Bohemians (28)
+
+Div. 2:
+Champions: Nottingham Forest (78)
+Promoted: 
+Shamrock Rovers (76)
+Fulham (68)
+
+--- SEASON 63 ---
+Div. 1:
+Champions: Manchester City (75)
+Relegated: 
+Southampton (44)
+Shamrock Rovers (39)
+West Ham United (37)
+
+Div. 2:
+Champions: Everton (73)
+Promoted: 
+Aberdeen (67)
+Dundee (67)
+
+--- SEASON 64 ---
+Div. 1:
+Champions: Nottingham Forest (74)
+Relegated: 
+Tottenham Hotspur (37)
+Dundee (33)
+St Johnstone (28)
+
+Div. 2:
+Champions: Drogheda (78)
+Promoted: 
+Rangers (66)
+Ipswich Town (65)
+
+--- SEASON 65 ---
+Div. 1:
+Champions: Crystal Palace (70)
+Relegated: 
+Drogheda (44)
+Newcastle United (39)
+Aberdeen (37)
+
+Div. 2:
+Champions: St Johnstone (73)
+Promoted: 
+West Ham United (65)
+Galway Utd FC (63)
+
+--- SEASON 66 ---
+Div. 1:
+Champions: Everton (73)
+Relegated: 
+Ipswich Town (42)
+Crystal Palace (37)
+Galway Utd FC (30)
+
+Div. 2:
+Champions: Shelbourne (78)
+Promoted: 
+Tottenham Hotspur (73)
+Drogheda (64)
+
+--- SEASON 67 ---
+Div. 1:
+Champions: Brighton and Hove Albion (65)
+Relegated: 
+Shelbourne (44)
+Aston Villa (40)
+Drogheda (34)
+
+Div. 2:
+Champions: Newcastle United (73)
+Promoted: 
+Ross County (73)
+Motherwell (65)
+
+--- SEASON 68 ---
+Div. 1:
+Champions: Tottenham Hotspur (68)
+Relegated: 
+Ross County (41)
+Motherwell (41)
+Fulham (37)
+
+Div. 2:
+Champions: Aston Villa (71)
+Promoted: 
+Crystal Palace (69)
+Shamrock Rovers (64)
+
+--- SEASON 69 ---
+Div. 1:
+Champions: Liverpool (69)
+Relegated: 
+West Ham United (44)
+Shamrock Rovers (37)
+Rangers (35)
+
+Div. 2:
+Champions: Dundee Utd (71)
+Promoted: 
+Drogheda (66)
+Wolverhampton Wanderers (66)
+
+--- SEASON 70 ---
+Div. 1:
+Champions: Manchester City (69)
+Relegated: 
+Newcastle United (45)
+Crystal Palace (38)
+Drogheda (37)
+
+Div. 2:
+Champions: Fulham (63)
+Promoted: 
+Shamrock Rovers (63)
+West Ham United (62)
+
+--- SEASON 71 ---
+Div. 1:
+Champions: Leicester City (71)
+Relegated: 
+Dundee Utd (45)
+St Johnstone (44)
+Shamrock Rovers (27)
+
+Div. 2:
+Champions: Aberdeen (66)
+Promoted: 
+Newcastle United (66)
+Crystal Palace (66)
+
+--- SEASON 72 ---
+Div. 1:
+Champions: Tottenham Hotspur (73)
+Relegated: 
+Liverpool (42)
+Crystal Palace (41)
+Bournemouth (37)
+
+Div. 2:
+Champions: Waterford Utd (75)
+Promoted: 
+Rangers (64)
+Hibernian (64)
+
+--- SEASON 73 ---
+Div. 1:
+Champions: Newcastle United (73)
+Relegated: 
+West Ham United (41)
+Wolverhampton Wanderers (41)
+Dundalk (35)
+
+Div. 2:
+Champions: St Johnstone (75)
+Promoted: 
+Ipswich Town (74)
+Liverpool (71)
+
+--- SEASON 74 ---
+Div. 1:
+Champions: Liverpool (69)
+Relegated: 
+Manchester City (43)
+Aberdeen (43)
+St Johnstone (43)
+
+Div. 2:
+Champions: Shelbourne (71)
+Promoted: 
+Crystal Palace (63)
+Dundee Utd (62)
+
+--- SEASON 75 ---
+Div. 1:
+Champions: Everton (76)
+Relegated: 
+Ipswich Town (44)
+Shelbourne (41)
+Dundee Utd (36)
+
+Div. 2:
+Champions: Dundalk (72)
+Promoted: 
+Manchester City (71)
+Ross County (69)
+
+--- SEASON 76 ---
+Div. 1:
+Champions: Chelsea (78)
+Relegated: 
+Ross County (42)
+Newcastle United (41)
+Brighton and Hove Albion (34)
+
+Div. 2:
+Champions: Wolverhampton Wanderers (73)
+Promoted: 
+Dundee Utd (70)
+Drogheda (64)
+
+--- SEASON 77 ---
+Div. 1:
+Champions: Liverpool (73)
+Relegated: 
+Dundee Utd (38)
+Hibernian (35)
+Dundalk (26)
+
+Div. 2:
+Champions: Newcastle United (70)
+Promoted: 
+St Johnstone (68)
+Aberdeen (66)
+
+--- SEASON 78 ---
+Div. 1:
+Champions: Manchester City (72)
+Relegated: 
+Aberdeen (41)
+Waterford Utd (36)
+Rangers (33)
+
+Div. 2:
+Champions: Southampton (77)
+Promoted: 
+Bournemouth (72)
+Bohemians (66)
+
+--- SEASON 79 ---
+Div. 1:
+Champions: Chelsea (71)
+Relegated: 
+Drogheda (35)
+Wolverhampton Wanderers (34)
+Southampton (32)
+
+Div. 2:
+Champions: Rangers (70)
+Promoted: 
+Brighton and Hove Albion (67)
+Waterford Utd (64)
+
+--- SEASON 80 ---
+Div. 1:
+Champions: Chelsea (63)
+Relegated: 
+Waterford Utd (46)
+Brighton and Hove Albion (46)
+Bohemians (32)
+
+Div. 2:
+Champions: West Ham United (72)
+Promoted: 
+Ipswich Town (70)
+Drogheda (65)
+
+--- SEASON 81 ---
+Div. 1:
+Champions: Liverpool (81)
+Relegated: 
+Bournemouth (43)
+Ipswich Town (42)
+Drogheda (41)
+
+Div. 2:
+Champions: Brighton and Hove Albion (73)
+Promoted: 
+Dundee (66)
+Dundee Utd (66)
+
+--- SEASON 82 ---
+Div. 1:
+Champions: Newcastle United (66)
+Relegated: 
+St Johnstone (45)
+Fulham (41)
+Dundee (36)
+
+Div. 2:
+Champions: Drogheda (70)
+Promoted: 
+Aberdeen (70)
+Dundalk (65)
+
+--- SEASON 83 ---
+Div. 1:
+Champions: Tottenham Hotspur (74)
+Relegated: 
+Dundalk (41)
+Rangers (39)
 Drogheda (39)
 
 Div. 2:
 Champions: Bournemouth (74)
 Promoted: 
-Rangers (67)
-Nottingham Forest (65)
-
---- SEASON 32 ---
-Div. 1:
-Champions: Arsenal (69)
-Relegated: 
-Heart of Midlothian (42)
-West Ham United (38)
-Wolverhampton Wanderers (38)
-
-Div. 2:
-Champions: Manchester City (76)
-Promoted: 
-Crystal Palace (71)
-Everton (69)
-
---- SEASON 33 ---
-Div. 1:
-Champions: Tottenham Hotspur (74)
-Relegated: 
-Brighton and Hove Albion (42)
-Southampton (40)
-Rangers (33)
-
-Div. 2:
-Champions: Drogheda (78)
-Promoted: 
-Wolverhampton Wanderers (69)
-Fulham (66)
-
---- SEASON 34 ---
-Div. 1:
-Champions: Brentford (77)
-Relegated: 
-Aberdeen (41)
-Arsenal (40)
-Drogheda (40)
-
-Div. 2:
-Champions: St Johnstone (66)
-Promoted: 
-Dundee Utd (62)
-Rangers (62)
-
---- SEASON 35 ---
-Div. 1:
-Champions: Aston Villa (79)
-Relegated: 
-Ipswich Town (42)
-Dundalk (37)
-Dundee Utd (34)
-
-Div. 2:
-Champions: Heart of Midlothian (72)
-Promoted: 
-West Ham United (66)
-Arsenal (66)
-
---- SEASON 36 ---
-Div. 1:
-Champions: Crystal Palace (68)
-Relegated: 
-Wolverhampton Wanderers (44)
-Heart of Midlothian (44)
-Rangers (37)
-
-Div. 2:
-Champions: Shelbourne (72)
-Promoted: 
-Bohemians (69)
-Motherwell (68)
-
---- SEASON 37 ---
-Div. 1:
-Champions: Tottenham Hotspur (66)
-Relegated: 
-Chelsea (43)
-Motherwell (36)
-Bohemians (33)
-
-Div. 2:
-Champions: Brighton and Hove Albion (71)
-Promoted: 
-Wolverhampton Wanderers (71)
-Ipswich Town (68)
-
---- SEASON 38 ---
-Div. 1:
-Champions: St Johnstone (69)
-Relegated: 
-Everton (43)
-Tottenham Hotspur (43)
-Fulham (34)
-
-Div. 2:
-Champions: Chelsea (66)
-Promoted: 
-Dundee Utd (64)
-Kilmarnock (63)
-
---- SEASON 39 ---
-Div. 1:
-Champions: Chelsea (69)
-Relegated: 
-Shelbourne (44)
-Dundee Utd (38)
-St Johnstone (30)
-
-Div. 2:
-Champions: Tottenham Hotspur (75)
-Promoted: 
-Celtic (64)
-Fulham (61)
-
---- SEASON 40 ---
-Div. 1:
-Champions: Bournemouth (73)
-Relegated: 
-Fulham (42)
-Ipswich Town (41)
-Aston Villa (41)
-
-Div. 2:
-Champions: Galway Utd FC (73)
-Promoted: 
-Rangers (71)
-St Johnstone (65)
-
---- SEASON 41 ---
-Div. 1:
-Champions: Manchester United (73)
-Relegated: 
-Chelsea (43)
-Rangers (41)
-Kilmarnock (34)
-
-Div. 2:
-Champions: Fulham (74)
-Promoted: 
-Everton (71)
-Dundalk (68)
-
---- SEASON 42 ---
-Div. 1:
-Champions: West Ham United (68)
-Relegated: 
-Fulham (42)
-Celtic (39)
-Brighton and Hove Albion (38)
-
-Div. 2:
-Champions: Chelsea (75)
-Promoted: 
-Drogheda (70)
-Southampton (69)
-
---- SEASON 43 ---
-Div. 1:
-Champions: Manchester City (70)
-Relegated: 
-Crystal Palace (46)
-West Ham United (42)
-Southampton (37)
-
-Div. 2:
-Champions: Aberdeen (68)
-Promoted: 
-Dundee Utd (67)
-Brighton and Hove Albion (66)
-
---- SEASON 44 ---
-Div. 1:
-Champions: Bournemouth (71)
-Relegated: 
-St Johnstone (44)
-Brighton and Hove Albion (43)
-Wolverhampton Wanderers (36)
-
-Div. 2:
-Champions: Rangers (65)
-Promoted: 
-Dundee (64)
-Fulham (63)
-
---- SEASON 45 ---
-Div. 1:
-Champions: Brentford (72)
-Relegated: 
-Rangers (37)
-Dundee (37)
-Aberdeen (34)
-
-Div. 2:
-Champions: Crystal Palace (73)
-Promoted: 
-Aston Villa (71)
-Wolverhampton Wanderers (70)
-
---- SEASON 46 ---
-Div. 1:
-Champions: Bournemouth (68)
-Relegated: 
-Fulham (44)
-Galway Utd FC (43)
-Drogheda (34)
-
-Div. 2:
-Champions: Brighton and Hove Albion (69)
-Promoted: 
-Aberdeen (67)
-St Johnstone (64)
-
---- SEASON 47 ---
-Div. 1:
-Champions: Bournemouth (72)
-Relegated: 
-Brighton and Hove Albion (44)
-Dundee Utd (36)
-Tottenham Hotspur (34)
-
-Div. 2:
-Champions: Celtic (66)
-Promoted: 
-Drogheda (64)
-Ross County (64)
-
---- SEASON 48 ---
-Div. 1:
-Champions: Liverpool (69)
-Relegated: 
-Dundalk (36)
-Celtic (34)
-Ross County (32)
-
-Div. 2:
-Champions: Rangers (72)
-Promoted: 
-Brighton and Hove Albion (71)
-West Ham United (69)
-
---- SEASON 49 ---
-Div. 1:
-Champions: Manchester City (66)
-Relegated: 
-Brighton and Hove Albion (38)
-Rangers (37)
-Wolverhampton Wanderers (31)
-
-Div. 2:
-Champions: Tottenham Hotspur (69)
-Promoted: 
-Southampton (66)
-Dundalk (66)
-
---- SEASON 50 ---
-Div. 1:
-Champions: Manchester United (75)
-Relegated: 
-Drogheda (40)
-Newcastle United (39)
-Brentford (39)
-
-Div. 2:
-Champions: Wolverhampton Wanderers (74)
-Promoted: 
-Fulham (73)
-Brighton and Hove Albion (68)
-
---- SEASON 51 ---
-Div. 1:
-Champions: Liverpool (70)
-Relegated: 
-Bournemouth (46)
-Aberdeen (43)
-Fulham (43)
-
-Div. 2:
-Champions: Newcastle United (74)
-Promoted: 
-Brentford (70)
-Bohemians (65)
-
---- SEASON 52 ---
-Div. 1:
-Champions: Tottenham Hotspur (73)
-Relegated: 
-Brighton and Hove Albion (44)
-Bohemians (39)
-St Johnstone (35)
-
-Div. 2:
-Champions: Hibernian (70)
-Promoted: 
-Aberdeen (67)
-Waterford Utd (66)
-
---- SEASON 53 ---
-Div. 1:
-Champions: Chelsea (64)
-Relegated: 
-Aberdeen (44)
-Nottingham Forest (38)
-Wolverhampton Wanderers (36)
-
-Div. 2:
-Champions: Bournemouth (83)
-Promoted: 
-Brighton and Hove Albion (75)
-Fulham (64)
-
---- SEASON 54 ---
-Div. 1:
-Champions: Newcastle United (73)
-Relegated: 
-Brighton and Hove Albion (40)
-Waterford Utd (38)
-Crystal Palace (33)
-
-Div. 2:
-Champions: St Johnstone (73)
-Promoted: 
-Nottingham Forest (69)
-Dundee (65)
-
---- SEASON 55 ---
-Div. 1:
-Champions: Tottenham Hotspur (67)
-Relegated: 
-Newcastle United (45)
-St Johnstone (43)
-Dundee (40)
-
-Div. 2:
-Champions: Shelbourne (71)
-Promoted: 
-Drogheda (66)
-Crystal Palace (63)
-
---- SEASON 56 ---
-Div. 1:
-Champions: Manchester United (65)
-Relegated: 
-Southampton (42)
-Drogheda (40)
-Everton (36)
-
-Div. 2:
-Champions: Brighton and Hove Albion (66)
-Promoted: 
-Wolverhampton Wanderers (66)
-Galway Utd FC (65)
-
---- SEASON 57 ---
-Div. 1:
-Champions: Aston Villa (73)
-Relegated: 
-West Ham United (38)
-Dundalk (37)
-Hibernian (35)
-
-Div. 2:
-Champions: Dundee Utd (68)
-Promoted: 
-Everton (67)
-Newcastle United (65)
-
---- SEASON 58 ---
-Div. 1:
-Champions: Aston Villa (70)
-Relegated: 
-Tottenham Hotspur (41)
-Crystal Palace (41)
-Galway Utd FC (38)
-
-Div. 2:
-Champions: West Ham United (68)
-Promoted: 
-Rangers (67)
-Southampton (66)
-
---- SEASON 59 ---
-Div. 1:
-Champions: Leicester City (64)
-Relegated: 
-Rangers (45)
-Manchester City (37)
-Wolverhampton Wanderers (37)
-
-Div. 2:
-Champions: Drogheda (69)
-Promoted: 
-Tottenham Hotspur (67)
-Dundalk (63)
-
---- SEASON 60 ---
-Div. 1:
-Champions: Dundalk (64)
-Relegated: 
-Brighton and Hove Albion (45)
-Drogheda (38)
-Southampton (35)
-
-Div. 2:
-Champions: Manchester City (80)
-Promoted: 
-St Johnstone (78)
-Crystal Palace (61)
-
---- SEASON 61 ---
-Div. 1:
-Champions: Leicester City (62)
-Relegated: 
-Brentford (46)
-Crystal Palace (46)
-Shelbourne (44)
-
-Div. 2:
-Champions: Brighton and Hove Albion (80)
-Promoted: 
-Wolverhampton Wanderers (68)
-Rangers (60)
-
---- SEASON 62 ---
-Div. 1:
-Champions: West Ham United (70)
-Relegated: 
-Leicester City (42)
-Wolverhampton Wanderers (41)
-Dundee Utd (40)
-
-Div. 2:
-Champions: Crystal Palace (69)
-Promoted: 
-Heart of Midlothian (67)
-Ipswich Town (63)
-
---- SEASON 63 ---
-Div. 1:
-Champions: Arsenal (74)
-Relegated: 
-Ipswich Town (42)
-Rangers (40)
-Heart of Midlothian (38)
-
-Div. 2:
-Champions: Leicester City (73)
-Promoted: 
-Shelbourne (72)
-Aberdeen (70)
-
---- SEASON 64 ---
-Div. 1:
-Champions: Liverpool (73)
-Relegated: 
-Manchester United (39)
-Dundalk (38)
-Bournemouth (33)
-
-Div. 2:
-Champions: Brentford (77)
-Promoted: 
-Rangers (70)
-Bohemians (64)
-
---- SEASON 65 ---
-Div. 1:
-Champions: Nottingham Forest (66)
-Relegated: 
-Aberdeen (41)
-Rangers (41)
-St Johnstone (39)
-
-Div. 2:
-Champions: Bournemouth (67)
-Promoted: 
-Dundalk (65)
-Ipswich Town (63)
-
---- SEASON 66 ---
-Div. 1:
-Champions: Arsenal (71)
-Relegated: 
-Ipswich Town (40)
-West Ham United (39)
-Bohemians (37)
-
-Div. 2:
-Champions: Manchester United (82)
-Promoted: 
-Southampton (71)
-Galway Utd FC (68)
-
---- SEASON 67 ---
-Div. 1:
-Champions: Newcastle United (66)
-Relegated: 
-Crystal Palace (39)
-Shelbourne (35)
-Bournemouth (31)
-
-Div. 2:
-Champions: Ipswich Town (73)
-Promoted: 
-Wolverhampton Wanderers (68)
-Aberdeen (66)
-
---- SEASON 68 ---
-Div. 1:
-Champions: Liverpool (74)
-Relegated: 
-Fulham (41)
-Wolverhampton Wanderers (38)
-Brentford (36)
-
-Div. 2:
-Champions: Rangers (77)
-Promoted: 
-West Ham United (68)
-Shelbourne (66)
-
---- SEASON 69 ---
-Div. 1:
-Champions: Brighton and Hove Albion (65)
-Relegated: 
-Galway Utd FC (44)
-West Ham United (43)
-Dundalk (41)
-
-Div. 2:
-Champions: Drogheda (65)
-Promoted: 
-Fulham (62)
-Bournemouth (62)
-
---- SEASON 70 ---
-Div. 1:
-Champions: Chelsea (68)
-Relegated: 
-Manchester United (42)
-Everton (40)
-Rangers (40)
-
-Div. 2:
-Champions: St Johnstone (72)
-Promoted: 
-Brentford (71)
-Ross County (70)
-
---- SEASON 71 ---
-Div. 1:
-Champions: Bournemouth (71)
-Relegated: 
-Shelbourne (41)
-Ipswich Town (39)
-Drogheda (36)
-
-Div. 2:
-Champions: Crystal Palace (70)
-Promoted: 
-Manchester United (69)
-Dundalk (65)
-
---- SEASON 72 ---
-Div. 1:
-Champions: Manchester United (66)
-Relegated: 
-Dundalk (43)
-Brighton and Hove Albion (39)
-Ross County (29)
-
-Div. 2:
-Champions: Wolverhampton Wanderers (75)
-Promoted: 
-Everton (72)
-Hibernian (69)
-
---- SEASON 73 ---
-Div. 1:
-Champions: Liverpool (69)
-Relegated: 
-Tottenham Hotspur (44)
-Southampton (42)
-Hibernian (38)
-
-Div. 2:
-Champions: Dundalk (71)
-Promoted: 
-West Ham United (67)
-Brighton and Hove Albion (66)
-
---- SEASON 74 ---
-Div. 1:
-Champions: Arsenal (70)
-Relegated: 
-Brighton and Hove Albion (42)
-Dundalk (42)
-Crystal Palace (40)
-
-Div. 2:
-Champions: Tottenham Hotspur (78)
-Promoted: 
-Waterford Utd (70)
-Rangers (65)
-
---- SEASON 75 ---
-Div. 1:
-Champions: Manchester United (71)
-Relegated: 
-Aberdeen (39)
-Brentford (30)
-Rangers (24)
-
-Div. 2:
-Champions: Drogheda (78)
-Promoted: 
-Dundalk (70)
-Southampton (65)
-
---- SEASON 76 ---
-Div. 1:
-Champions: Nottingham Forest (69)
-Relegated: 
-Wolverhampton Wanderers (41)
-Bournemouth (41)
-Dundalk (34)
-
-Div. 2:
-Champions: Brighton and Hove Albion (73)
-Promoted: 
-Brentford (71)
-Shelbourne (66)
-
---- SEASON 77 ---
-Div. 1:
-Champions: Everton (66)
-Relegated: 
-Drogheda (45)
-Waterford Utd (37)
-Nottingham Forest (34)
-
-Div. 2:
-Champions: Bohemians (72)
-Promoted: 
-Aberdeen (72)
-Bournemouth (61)
-
---- SEASON 78 ---
-Div. 1:
-Champions: Aston Villa (77)
-Relegated: 
-Aberdeen (39)
-Shelbourne (38)
-Southampton (38)
-
-Div. 2:
-Champions: Galway Utd FC (69)
-Promoted: 
-Dundee Utd (66)
-Crystal Palace (65)
-
---- SEASON 79 ---
-Div. 1:
-Champions: Arsenal (76)
-Relegated: 
-Fulham (42)
-Bournemouth (42)
-Dundee Utd (35)
-
-Div. 2:
-Champions: Derry City (70)
-Promoted: 
-Nottingham Forest (65)
-Shelbourne (62)
-
---- SEASON 80 ---
-Div. 1:
-Champions: Leicester City (70)
-Relegated: 
-Nottingham Forest (42)
-Shelbourne (35)
-Bohemians (27)
-
-Div. 2:
-Champions: Heart of Midlothian (69)
-Promoted: 
-Dundalk (64)
-Waterford Utd (63)
-
---- SEASON 81 ---
-Div. 1:
-Champions: Manchester United (67)
-Relegated: 
-St Johnstone (38)
-Brighton and Hove Albion (32)
-Derry City (28)
-
-Div. 2:
-Champions: Wolverhampton Wanderers (71)
-Promoted: 
-Drogheda (69)
-Rangers (68)
-
---- SEASON 82 ---
-Div. 1:
-Champions: Tottenham Hotspur (80)
-Relegated: 
-Waterford Utd (42)
-Heart of Midlothian (32)
-Galway Utd FC (31)
-
-Div. 2:
-Champions: Aberdeen (77)
-Promoted: 
-Bournemouth (71)
-Southampton (70)
-
---- SEASON 83 ---
-Div. 1:
-Champions: Arsenal (71)
-Relegated: 
-Wolverhampton Wanderers (42)
-Southampton (42)
-Rangers (38)
-
-Div. 2:
-Champions: Hibernian (75)
-Promoted: 
-St Johnstone (65)
-Heart of Midlothian (64)
+St Johnstone (71)
+Ross County (66)
 
 --- SEASON 84 ---
 Div. 1:
-Champions: Manchester City (75)
-Relegated: 
-Brentford (42)
-Aberdeen (40)
-St Johnstone (40)
-
-Div. 2:
-Champions: Rangers (69)
-Promoted: 
-Dundee Utd (66)
-Shelbourne (63)
-
---- SEASON 85 ---
-Div. 1:
-Champions: Manchester City (66)
-Relegated: 
-West Ham United (42)
-Dundee Utd (42)
-Shelbourne (37)
-
-Div. 2:
-Champions: Southampton (75)
-Promoted: 
-St Johnstone (63)
-Derry City (62)
-
---- SEASON 86 ---
-Div. 1:
-Champions: Liverpool (65)
-Relegated: 
-Rangers (45)
-Derry City (41)
-Heart of Midlothian (38)
-
-Div. 2:
-Champions: Fulham (77)
-Promoted: 
-Dundee Utd (77)
-West Ham United (70)
-
---- SEASON 87 ---
-Div. 1:
-Champions: Newcastle United (65)
-Relegated: 
-West Ham United (45)
-Southampton (44)
-Drogheda (38)
-
-Div. 2:
-Champions: St Mirren (70)
-Promoted: 
-Brentford (68)
-Nottingham Forest (64)
-
---- SEASON 88 ---
-Div. 1:
-Champions: Manchester City (67)
-Relegated: 
-Crystal Palace (42)
-St Mirren (36)
-Hibernian (34)
-
-Div. 2:
-Champions: West Ham United (71)
-Promoted: 
-Brighton and Hove Albion (70)
-Waterford Utd (67)
-
---- SEASON 89 ---
-Div. 1:
-Champions: Chelsea (68)
-Relegated: 
-Everton (42)
-Fulham (40)
-West Ham United (39)
-
-Div. 2:
-Champions: Heart of Midlothian (68)
-Promoted: 
-Aberdeen (67)
-Dundee (65)
-
---- SEASON 90 ---
-Div. 1:
-Champions: Chelsea (84)
+Champions: Chelsea (76)
 Relegated: 
 Dundee Utd (41)
-Dundee (35)
-Waterford Utd (35)
-
-Div. 2:
-Champions: Southampton (73)
-Promoted: 
-Fulham (69)
-Ipswich Town (65)
-
---- SEASON 91 ---
-Div. 1:
-Champions: Aston Villa (79)
-Relegated: 
-Newcastle United (39)
-Chelsea (39)
-Heart of Midlothian (38)
+Aberdeen (41)
+West Ham United (35)
 
 Div. 2:
 Champions: Wolverhampton Wanderers (70)
 Promoted: 
-Dundee (68)
 Shelbourne (67)
+Southampton (64)
+
+--- SEASON 85 ---
+Div. 1:
+Champions: Chelsea (68)
+Relegated: 
+Brentford (38)
+Southampton (36)
+Ross County (36)
+
+Div. 2:
+Champions: Rangers (77)
+Promoted: 
+Ipswich Town (65)
+Waterford Utd (63)
+
+--- SEASON 86 ---
+Div. 1:
+Champions: Arsenal (67)
+Relegated: 
+Bournemouth (37)
+Wolverhampton Wanderers (36)
+St Johnstone (35)
+
+Div. 2:
+Champions: Brentford (70)
+Promoted: 
+Fulham (68)
+Drogheda (66)
+
+--- SEASON 87 ---
+Div. 1:
+Champions: Liverpool (67)
+Relegated: 
+Ipswich Town (42)
+Waterford Utd (41)
+Fulham (23)
+
+Div. 2:
+Champions: Wolverhampton Wanderers (67)
+Promoted: 
+West Ham United (65)
+Aberdeen (64)
+
+--- SEASON 88 ---
+Div. 1:
+Champions: Aston Villa (70)
+Relegated: 
+Rangers (43)
+Drogheda (38)
+West Ham United (34)
+
+Div. 2:
+Champions: Dundalk (68)
+Promoted: 
+Bournemouth (67)
+Dundee Utd (66)
+
+--- SEASON 89 ---
+Div. 1:
+Champions: Liverpool (70)
+Relegated: 
+Dundee Utd (42)
+Aberdeen (36)
+Nottingham Forest (31)
+
+Div. 2:
+Champions: Southampton (67)
+Promoted: 
+West Ham United (63)
+St Johnstone (63)
+
+--- SEASON 90 ---
+Div. 1:
+Champions: Newcastle United (67)
+Relegated: 
+Wolverhampton Wanderers (42)
+Dundalk (41)
+Southampton (24)
+
+Div. 2:
+Champions: Rangers (67)
+Promoted: 
+Dundee Utd (63)
+Aberdeen (63)
+
+--- SEASON 91 ---
+Div. 1:
+Champions: Newcastle United (64)
+Relegated: 
+Brighton and Hove Albion (43)
+West Ham United (42)
+Brentford (38)
+
+Div. 2:
+Champions: Nottingham Forest (72)
+Promoted: 
+Wolverhampton Wanderers (68)
+Fulham (64)
 
 --- SEASON 92 ---
 Div. 1:
-Champions: Arsenal (78)
+Champions: Manchester City (71)
 Relegated: 
-Southampton (38)
-Dundalk (37)
-Dundee (31)
+Dundee Utd (38)
+St Johnstone (35)
+Shelbourne (30)
 
 Div. 2:
-Champions: Newcastle United (78)
+Champions: Southampton (75)
 Promoted: 
-Drogheda (66)
-Everton (65)
+Brentford (65)
+Waterford Utd (65)
 
 --- SEASON 93 ---
 Div. 1:
-Champions: Newcastle United (65)
+Champions: Aston Villa (73)
 Relegated: 
-Shelbourne (43)
-Aberdeen (42)
-Drogheda (39)
+Southampton (38)
+Rangers (36)
+Bournemouth (35)
 
 Div. 2:
-Champions: Southampton (81)
+Champions: Brighton and Hove Albion (73)
 Promoted: 
-Crystal Palace (74)
-Chelsea (68)
+West Ham United (72)
+Motherwell (66)
 
 --- SEASON 94 ---
 Div. 1:
-Champions: Manchester United (68)
+Champions: Fulham (70)
 Relegated: 
-Southampton (42)
-Crystal Palace (39)
-Fulham (33)
+Waterford Utd (36)
+Nottingham Forest (35)
+Motherwell (34)
 
 Div. 2:
-Champions: Derry City (68)
+Champions: Bournemouth (78)
 Promoted: 
-Rangers (66)
-Aberdeen (63)
+Southampton (68)
+Shamrock Rovers (64)
 
 --- SEASON 95 ---
 Div. 1:
-Champions: Manchester City (73)
+Champions: Manchester City (69)
 Relegated: 
-Leicester City (42)
-Aberdeen (42)
-Derry City (35)
+Southampton (43)
+Aberdeen (39)
+Crystal Palace (30)
 
 Div. 2:
-Champions: Southampton (71)
+Champions: St Johnstone (72)
 Promoted: 
-Crystal Palace (70)
-Fulham (65)
+Dundalk (63)
+Bohemians (60)
 
 --- SEASON 96 ---
 Div. 1:
-Champions: Arsenal (75)
+Champions: Manchester City (70)
 Relegated: 
-Manchester United (42)
-Southampton (40)
-Everton (36)
+Wolverhampton Wanderers (41)
+Shamrock Rovers (40)
+Bohemians (35)
 
 Div. 2:
-Champions: Dundalk (71)
+Champions: Aberdeen (71)
 Promoted: 
-Ross County (65)
-Leicester City (63)
+Shelbourne (68)
+Nottingham Forest (67)
 
 --- SEASON 97 ---
 Div. 1:
-Champions: Arsenal (74)
+Champions: Everton (66)
 Relegated: 
-Crystal Palace (40)
-Nottingham Forest (39)
-Rangers (33)
+Dundalk (43)
+Shelbourne (42)
+Aberdeen (39)
 
 Div. 2:
-Champions: Manchester United (80)
+Champions: Wolverhampton Wanderers (71)
 Promoted: 
-Drogheda (65)
-Southampton (64)
+Waterford Utd (66)
+Dundee Utd (64)
 
 --- SEASON 98 ---
 Div. 1:
-Champions: Fulham (70)
+Champions: Brighton and Hove Albion (67)
 Relegated: 
-Arsenal (36)
-Dundalk (36)
-Ross County (35)
+Wolverhampton Wanderers (39)
+Dundee Utd (38)
+Waterford Utd (34)
 
 Div. 2:
-Champions: West Ham United (75)
+Champions: Drogheda (64)
 Promoted: 
-Nottingham Forest (73)
-Waterford Utd (73)
+Southampton (63)
+Shelbourne (61)
 
 --- SEASON 99 ---
 Div. 1:
-Champions: Aston Villa (71)
+Champions: Everton (74)
 Relegated: 
-Wolverhampton Wanderers (44)
-Tottenham Hotspur (44)
-Drogheda (44)
+Newcastle United (42)
+Drogheda (42)
+Shelbourne (37)
 
 Div. 2:
-Champions: Crystal Palace (78)
+Champions: Wolverhampton Wanderers (71)
 Promoted: 
-Arsenal (77)
-St Mirren (73)
+Crystal Palace (69)
+Ipswich Town (68)
 
 --- SEASON 100 ---
 Div. 1:
-Champions: Manchester City (78)
+Champions: Everton (67)
 Relegated: 
-Waterford Utd (42)
-St Mirren (39)
-Arsenal (32)
+Chelsea (38)
+Brighton and Hove Albion (38)
+Brentford (38)
 
 Div. 2:
-Champions: Tottenham Hotspur (71)
+Champions: Aberdeen (77)
 Promoted: 
-Dundee Utd (70)
-Everton (68)
+Dundalk (75)
+Newcastle United (74)
 

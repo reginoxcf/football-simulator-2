@@ -1,20 +1,20 @@
+Everton,1980
+West Ham United,1795
+Arsenal,2101
 Manchester City,2140
-Brentford,1927
-Brighton and Hove Albion,1914
-Ipswich Town,1606
-Fulham,1805
-Chelsea,2064
-Crystal Palace,1822
+Wolverhampton Wanderers,1668
+Tottenham Hotspur,1987
 Manchester United,2033
-Newcastle United,2016
 Aston Villa,2039
 Liverpool,2081
-Bournemouth,1938
-Leicester City,1971
 Nottingham Forest,1800
-Southampton,1619
-West Ham United,1795
+Ipswich Town,1606
+Fulham,1805
+Bournemouth,1938
 St Johnstone,1732
-Tottenham Hotspur,1987
-Dundee Utd,1555
-Everton,1980
+Leicester City,1971
+Crystal Palace,1822
+Southampton,1619
+Aberdeen,1606
+Dundalk,1670
+Newcastle United,2016
